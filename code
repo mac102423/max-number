@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{   
+   float n1,n2,n3;
+   float max;
+   printf("please input three numbers:");
+   scanf("%f,%f,%f",&n1,&n2,&n3);
+   if(n1>n2)
+   {   max=n1; }
+   else  ma=n2;
+   if(n3>max)
+   {max=n3;}
+   printf("/n the max number is: %d",max);
+   return 0;
+   }
+
+   
+   
